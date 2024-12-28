@@ -59,23 +59,21 @@
   <h1>Statistic</h1>
   <img src="https://github-readme-stats.vercel.app/api?username=KarmaFaber&show_icons=true&theme=cobalt" alt="GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarmaFaber&theme=cobalt&layout=compact" alt="Top languages"/>
-  
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarmaFaber&theme=cobalt" alt="Streak stats"/>
-  
-  
 </div>
 
-
+<!-- Añadimos espacio para evitar solapamiento -->
+<div style="clear: both; margin-top: 30px;"></div>
 
 <!-- 42 School - common core projects -->
-## 42 Common Core Student
-
+<div align="left">
+<h1>42 Common Core Student</h1>
 <table>
 <tr>
 <th align="left"> &nbsp;💻 Common Core Projects</th>
 </tr>
 <tr>
-
 <td>
 
 | Circle 0  | Circle 1 | Circle 2  | Circle 3 | Circle 4 | Circle 5 | Circle 6 | 
@@ -85,13 +83,17 @@
 | | [Get_Next_Line]()  | [Pipex]() |  | []()  |  |
 
 </td></tr></table>
+</div>
 
-<br>
+
+<!-- Añadimos espacio para evitar solapamiento -->
+<div style="clear: both; margin-top: 30px;"></div>
 
 <!-- 42 School - common core tests -->
+<div align="left">
 <table>
 <tr>
-<th align="left"> &nbsp; 🔍 Common Core Tests</th>
+<th align="left"> &nbsp; 🔍 Common Core Own Tests</th>
 </tr>
 <tr>
 
@@ -104,10 +106,13 @@
 | | [Get_Next_Line](https://github.com/KarmaFaber/GetNextLine_test)  | -  |  | -  |  |
 
 </td></tr></table>
+</div>
 
-<br>
+<!-- Añadimos espacio para evitar solapamiento -->
+<div style="clear: both; margin-top: 30px;"></div>
 
 <!-- 42 School - common core guide table -->
+<div align="left">
 <table>
 <tr>
 <th align="left"> &nbsp; 🎓 Common Core Guide</th>
@@ -136,13 +141,17 @@
 
 </td>
 </tr> </table>
+</div>
 
-<br>
+<!-- Añadimos espacio para evitar solapamiento -->
+<div style="clear: both; margin-top: 30px;"></div>
 
 <!-- WEB development course -->
+<div align="left">
 <table>
 <tr>
-<th align="left"> &nbsp;🎓 WEB development course</th>
+<h1>🎓 WEB development course</h1>
+<th align="left"> &nbsp;Projects</th>
 </tr>
 <tr>
 
@@ -159,14 +168,19 @@
 
 </td>
 </tr> </table>
+</div>
 
-<br>
+<!-- Añadimos espacio para evitar solapamiento -->
+<div style="clear: both; margin-top: 30px;"></div>
 
+<!-- SNAKE GAME -->
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake-dark.svg" alt = "Snake Game"/>
+</p>
 
 <!-- FOOTER -->
 <hr>
@@ -191,5 +205,8 @@ https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/
 
 8. Stats:
 https://github.com/anuraghazra/github-readme-stats
+
+9.Snake game:
+https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg
 
 -->
