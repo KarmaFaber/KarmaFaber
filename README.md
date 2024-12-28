@@ -9,7 +9,7 @@
 <!-- STACK -->
 <div align="left">
 <h1>Tech Stack</h1>
-<table align="left">
+<table>
   <tr>
     <th>Category</th>
     <th>Technologies</th>
@@ -53,13 +53,8 @@
 </table>
 </div>
 
-
-</br>
-<hr>
-
-
-
-
+<!-- Añadimos espacio para evitar solapamiento -->
+<div style="clear: both; margin-top: 30px;"></div>
 
 <!-- STATS -->
 <div align="left">
@@ -69,11 +64,6 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarmaFaber&theme=cobalt&layout=compact" alt="Top languages"/>
 </div>
-
-
-
-
-
 
 
 
