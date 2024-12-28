@@ -39,7 +39,7 @@
 
 <table>
 <tr>
-<th> 🎓 Common Core Guide</th>
+<th align="left"> &nbsp; 🎓 Common Core Guide</th>
 </tr>
 <tr>
 
@@ -93,4 +93,6 @@
 
 <br>
 
-![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
