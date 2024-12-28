@@ -1,3 +1,12 @@
+
+<!-- HEADER -->
+<div align="center" width="100" style="margin-bottom:20px">
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Karma%20Faber%20&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn" alt="header"/>
+</div>
+
+
+
+<!-- STACK -->
 ## 🛠 &nbsp;Tech Stack
 
 ####  👉 Programming languages
@@ -27,18 +36,23 @@
 
 
 
-
-## 📈 My GitHub Stats and Activity
-
-### 💻 Profile Stats
-![KarmaFaber's github stats](https://github-readme-stats.vercel.app/api?username=KarmaFaber&show_icons=true&theme=tokyonight)
-
-![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarmaFaber&theme=tokyonight&layout=compact)
-
-### 🔥 Streak Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KarmaFaber&theme=tokyonight" alt="mystreak"/>
+<!-- STATS -->
+<div align="left">
+  <h1>Statistic</h1>
+  <img src="https://github-readme-stats.vercel.app/api?username=KarmaFaber&show_icons=true&theme=cobalt" alt="GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarmaFaber&theme=cobalt" alt="Streak stats"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarmaFaber&theme=cobalt&layout=compact" alt="Top languages"/>
+</div>
 
 
+
+
+
+
+
+
+<!-- 42 School - common core projects -->
 ## 42 Common Core Student
 
 <table>
@@ -49,16 +63,17 @@
 
 <td>
 
-| Guide | Circle 0  | Circle 1 | Circle 2  | Circle 3 | Circle 4 | Circle 5 | Circle 6 | 
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| [Common Core Guide]() | [Libft]()  | [Born2BeRoot]()  | [Pipex]()  | []()  | []()  | []()  | []()  | |
-| |        | [Printf]()  | [So_Long]()  | []()  | []()  | []() |  |
-| |        | [Get_Next_Line]()  | [Push_Swap]()  |  | []()  |  |
+| Circle 0  | Circle 1 | Circle 2  | Circle 3 | Circle 4 | Circle 5 | Circle 6 | 
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+|  [Libft]()  | [Born2BeRoot]()  | [So_Long]()  | []()  | []()  | []()  | []()  | |
+| | [Printf]()  | [Push_Swap]()  | []()  | []()  | []() |  |
+| | [Get_Next_Line]()  | [Pipex]() |  | []()  |  |
 
 </td></tr></table>
 
 <br>
 
+<!-- 42 School - common core tests -->
 <table>
 <tr>
 <th align="left"> &nbsp; 🔍 Common Core Tests</th>
@@ -67,16 +82,17 @@
 
 <td>
 
-| Guide | Circle 0  | Circle 1 | Circle 2  | Circle 3 | Circle 4 | Circle 5 | Circle 6 | 
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| [Common Core Overview]() | -  | -  | [-]()  | []()  | []()  | []()  | []()  | |
-| |        | [Printf](https://github.com/KarmaFaber/ft_printf_test)  | -  | []()  | []()  | []() |  |
-| |        | [Get_Next_Line](https://github.com/KarmaFaber/GetNextLine_test)  | [Push_Swap]()  |  | -  |  |
+|  Circle 0  | Circle 1 | Circle 2  | Circle 3 | Circle 4 | Circle 5 | Circle 6 | 
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+|  - | -  | -  | []()  | []()  | |
+| | [Printf](https://github.com/KarmaFaber/ft_printf_test)  | [Push_Swap]() | []()  | []()  | []() |  |
+| | [Get_Next_Line](https://github.com/KarmaFaber/GetNextLine_test)  | -  |  | -  |  |
 
 </td></tr></table>
 
 <br>
 
+<!-- 42 School - common core guide table -->
 <table>
 <tr>
 <th align="left"> &nbsp; 🎓 Common Core Guide</th>
@@ -108,8 +124,7 @@
 
 <br>
 
-
-
+<!-- WEB development course -->
 <table>
 <tr>
 <th align="left"> &nbsp; WEB development course</th>
@@ -128,7 +143,6 @@
 [CRUD_Spring_Java](https://github.com/KarmaFaber/CRUD_Spring_Java) 
 
 </td>
-
 </tr> </table>
 
 <br>
@@ -136,3 +150,31 @@
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
+
+
+
+<!-- FOOTER -->
+<hr>
+<div align="center" width="100" style="margin-bottom:20px">
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
+  alt="footer" />
+</div>
+
+
+<!--
+USED:
+1. Markdown: 
+2. Icons: https://coolsymbol.com/
+3. Header/Footer: https://github.com/kyechan99/capsule-render
+
+4. GitHub streak: https://github-readme-streak-stats.herokuapp.com/demo/
+5. GitHub trophy: https://github.com/ryo-ma/github-profile-trophy
+6. Badges: https://shields.io
+
+7. Templates:
+https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/Dum6o.md
+
+8. Stats:
+https://github.com/anuraghazra/github-readme-stats
+
+-->
