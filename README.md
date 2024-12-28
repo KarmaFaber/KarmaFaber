@@ -51,7 +51,7 @@
 
 | Guide | Circle 0  | Circle 1 | Circle 2  | Circle 3 | Circle 4 | Circle 5 | Circle 6 | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| [Common Core Overview]() | [Libft]()  | [Born2BeRoot]()  | [Pipex]()  | []()  | []()  | []()  | []()  | |
+| [Common Core Guide]() | [Libft]()  | [Born2BeRoot]()  | [Pipex]()  | []()  | []()  | []()  | []()  | |
 | |        | [Printf]()  | [So_Long]()  | []()  | []()  | []() |  |
 | |        | [Get_Next_Line]()  | [Push_Swap]()  |  | []()  |  |
 
