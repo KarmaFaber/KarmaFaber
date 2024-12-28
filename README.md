@@ -1,3 +1,43 @@
+## 🛠 &nbsp;Tech Stack
+
+####  👉 Programming languages
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)&nbsp;
+
+#### 👉 Frontend Development
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+<a href="https://getbootstrap.com" target="_blank"> 
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+  </a>
+
+#### 👉 Databases & Cloud Hosting
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)&nbsp;
+
+
+####  👉 Software & Tools
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+<a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
+<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
+<a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
+
+
+
+
+## 📈 My GitHub Stats and Activity
+
+### 💻 Profile Stats
+![KarmaFaber's github stats](https://github-readme-stats.vercel.app/api?username=KarmaFaber&show_icons=true&theme=tokyonight)
+
+![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarmaFaber&theme=tokyonight&layout=compact)
+
+### 🔥 Streak Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KarmaFaber&theme=tokyonight" alt="mystreak"/>
+
 
 ## 42 Common Core Student
 
