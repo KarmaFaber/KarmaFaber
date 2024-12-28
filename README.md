@@ -29,6 +29,9 @@ class WhoAmI:
    	BecomeSoftwareEngineer()
    	FinishMyProjects()
 ```
+
+<!--<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>-->
+
 </div>
 
 <!-- Añadimos espacio para evitar solapamiento -->
@@ -37,7 +40,6 @@ class WhoAmI:
 <!-- STACK -->
 <div align="left">
 <h1>Tech Stack</h1>
-<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 <table>
   <tr>
     <th>Category</th>
