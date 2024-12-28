@@ -45,9 +45,7 @@
       <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC">&nbsp;
       <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">&nbsp;
       <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">&nbsp;
-      <img src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white">&nbsp;
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">&nbsp;
-      <img src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white">&nbsp;
     </td>
   </tr>
 </table>
@@ -60,9 +58,11 @@
 <div align="left">
   <h1>Statistic</h1>
   <img src="https://github-readme-stats.vercel.app/api?username=KarmaFaber&show_icons=true&theme=cobalt" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarmaFaber&theme=cobalt&layout=compact" alt="Top languages"/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarmaFaber&theme=cobalt" alt="Streak stats"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarmaFaber&theme=cobalt&layout=compact" alt="Top languages"/>
+  
 </div>
 
 
