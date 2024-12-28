@@ -4,35 +4,60 @@
   <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Karma%20Faber%20&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn" alt="header"/>
 </div>
 
-
+</br>
 
 <!-- STACK -->
-## 🛠 &nbsp;Tech Stack
+<div align="left">
+<h1>Tech Stack</h1>
+<table align="left">
+  <tr>
+    <th>Category</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td><strong>Programming Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC">&nbsp;
+      <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python">&nbsp;
+      <img src="https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash">&nbsp;
+      <img src="https://img.shields.io/badge/-PHP-000?&logo=PHP">&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frontend Development</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5">&nbsp;
+      <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6">&nbsp;
+      <a href="https://getbootstrap.com" target="_blank">
+        <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Databases & Cloud Hosting</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-MySQL-000?&logo=MySQL">&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Software & Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC">&nbsp;
+      <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">&nbsp;
+      <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">&nbsp;
+      <img src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white">&nbsp;
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">&nbsp;
+      <img src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white">&nbsp;
+    </td>
+  </tr>
+</table>
+</div>
 
-####  👉 Programming languages
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)&nbsp;
 
-#### 👉 Frontend Development
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-<a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
-  </a>
-
-#### 👉 Databases & Cloud Hosting
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)&nbsp;
+</br>
+<hr>
 
 
-####  👉 Software & Tools
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-<a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
-<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
-<a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
 
 
 
@@ -127,7 +152,7 @@
 <!-- WEB development course -->
 <table>
 <tr>
-<th align="left"> &nbsp; WEB development course</th>
+<th align="left"> &nbsp;🎓 WEB development course</th>
 </tr>
 <tr>
 
