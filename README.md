@@ -1,14 +1,43 @@
-
 <!-- HEADER -->
 <div align="center" width="100" style="margin-bottom:20px">
   <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Karma%20Faber%20&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn" alt="header"/>
 </div>
 
-</br>
+<!-- Añadimos espacio para evitar solapamiento -->
+<div style="clear: both; margin-top: 30px;"></div>
+
+<div align="left">
+<h1>Who am I?</h1>
+
+```python 
+class WhoAmI:
+   user = 'Mariya'
+   current_edu = "42 Madrid"
+   fun_fact = "My current fav hobbie is anime"
+   hobbies = [
+    'Music',
+    'Chilling',
+    'Gaming',
+    'Movies',
+    'Anime'
+   		]
+   
+   def getCity():
+   	return Madrid_Spain()
+   
+   def Ambitions():
+   	BecomeSoftwareEngineer()
+   	FinishMyProjects()
+```
+</div>
+
+<!-- Añadimos espacio para evitar solapamiento -->
+<div style="clear: both; margin-top: 30px;"></div>
 
 <!-- STACK -->
 <div align="left">
 <h1>Tech Stack</h1>
+<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 <table>
   <tr>
     <th>Category</th>
@@ -18,6 +47,7 @@
     <td><strong>Programming Languages</strong></td>
     <td>
       <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC">&nbsp;
+      <img src="https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=cplusplus&logoColor=white">&nbsp;
       <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python">&nbsp;
       <img src="https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash">&nbsp;
       <img src="https://img.shields.io/badge/-PHP-000?&logo=PHP">&nbsp;
@@ -43,9 +73,11 @@
     <td><strong>Software & Tools</strong></td>
     <td>
       <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC">&nbsp;
-      <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">&nbsp;
-      <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">&nbsp;
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">&nbsp;
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logoColor=white">&nbsp;
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">&nbsp;
+      <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">&nbsp; 
+      <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">&nbsp;
     </td>
   </tr>
 </table>
@@ -54,14 +86,42 @@
 <!-- Añadimos espacio para evitar solapamiento -->
 <div style="clear: both; margin-top: 30px;"></div>
 
+<h2>Connect with me!</h2>
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/maria-zolotarova/) 
+
+
+<!-- Añadimos espacio para evitar solapamiento -->
+<div style="clear: both; margin-top: 30px;"></div>
+
 <!-- STATS -->
 <div align="left">
   <h1>Statistic</h1>
-  <img src="https://github-readme-stats.vercel.app/api?username=KarmaFaber&show_icons=true&theme=cobalt" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarmaFaber&theme=cobalt&layout=compact" alt="Top languages"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarmaFaber&theme=cobalt" alt="Streak stats"/>
+  <table>
+    <tr>
+      <th colspan="2"><h2>Profile Stats</h2></th>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=KarmaFaber&show_icons=true&theme=cobalt" alt="GitHub stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarmaFaber&theme=cobalt&layout=compact" alt="Top languages"/>
+      </td>
+    </tr>
+    <tr>
+      <th colspan="2"><h2>Streak Stats</h2></th>
+    </tr>
+    <tr>
+      <td colspan="2" align="left">
+        <a href="https://git.io/streak-stats">
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=KarmaFaber&theme=cobalt" alt="GitHub Streak"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 <!-- Añadimos espacio para evitar solapamiento -->
 <div style="clear: both; margin-top: 30px;"></div>
@@ -178,9 +238,6 @@
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake-dark.svg" alt = "Snake Game"/>
-</p>
 
 <!-- FOOTER -->
 <hr>
@@ -192,21 +249,12 @@
 
 <!--
 USED:
-1. Markdown: 
+1. Markdown:  https://github.github.com/gfm/
 2. Icons: https://coolsymbol.com/
 3. Header/Footer: https://github.com/kyechan99/capsule-render
-
 4. GitHub streak: https://github-readme-streak-stats.herokuapp.com/demo/
-5. GitHub trophy: https://github.com/ryo-ma/github-profile-trophy
+5. Templates: https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/Dum6o.md
 6. Badges: https://shields.io
-
-7. Templates:
-https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/Dum6o.md
-
-8. Stats:
-https://github.com/anuraghazra/github-readme-stats
-
-9.Snake game:
-https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg
-
+7. Stats: https://github.com/anuraghazra/github-readme-stats
+9.Snake game: https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg
 -->
