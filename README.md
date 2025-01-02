@@ -138,7 +138,7 @@ class WhoAmI:
 <tr>
 <td>
 
-| Circle 0  | Circle 1 | Circle 2  | Circle 3 | Circle 4 | Circle 5 | Circle 6 | 
+| Circle 0 ✔️  | Circle 1 ✔️ | Circle 2 | Circle 3 | Circle 4 | Circle 5 | Circle 6 | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 |  [Libft]()  | [Born2BeRoot]()  | [So_Long]()  | []()  | []()  | []()  | []()  | |
 | | [Printf]()  | [Push_Swap]()  | []()  | []()  | []() |  |
