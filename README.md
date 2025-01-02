@@ -185,12 +185,12 @@ class WhoAmI:
 
 |  Order | 👨‍💻  Project | 🎓PL/Program | ⌚ Evaluation Length | 👥 Evaluation | ✔️ Evaluation Points Required | 🧑‍🤝‍🧑 Group Project | 
 |--|--|--|--|--|--|--|
-| ① | [Libft]() | C | 15 Mins | Moulinette and 3 Peers | 3 | No |
-| ② | [Born2BeRoot]() | VirtualBox | 1 Hour | 3 Peers | 3 | No |
-| ③ | [Printf]() | C | 15 Mins | Moulinette and 3 Peers | 3 | No |
-| ④ | [Get_Next_Line]() | C | 15 Mins | Moulinette and 3 Peers | 3 | No |
+| ① ✔️ | [Libft]() | C | 15 Mins | Moulinette and 3 Peers | 3 | No |
+| ② ✔️ | [Born2BeRoot]() | VirtualBox | 1 Hour | 3 Peers | 3 | No |
+| ③ ✔️ | [Printf]() | C | 15 Mins | Moulinette and 3 Peers | 3 | No |
+| ④ ✔️ | [Get_Next_Line]() | C | 15 Mins | Moulinette and 3 Peers | 3 | No |
 | ⑤ | [Pipex]() | C | 15 Mins | 3 Peers | 3 | No |
-| ⑥ | [So_Long]() | C | 15 Mins | 3 Peers | 3 | No |
+| ⑥ ✔️ | [So_Long]() | C | 15 Mins | 3 Peers | 3 | No |
 | ⑦ | [Push_Swap]() | C | 15 Mins | 3 Peers | 3 | No |
 | ⑧ | [Philosophers]() | C | 15 Mins | 3 Peers | 3 | No |
 | ⑨ | [Minishell]() | C | 15 Mins | 3 Peers | 3 | Yes - 2 People |
