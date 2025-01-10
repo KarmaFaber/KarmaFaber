@@ -140,8 +140,8 @@ class WhoAmI:
 
 | Circle 0 ✔️  | Circle 1 ✔️ | Circle 2 | Circle 3 | Circle 4 | Circle 5 | Circle 6 | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-|  [Libft]()  | [Born2BeRoot]()  | [So_Long]()  | []()  | []()  | []()  | []()  | |
-| | [Printf]()  | [Push_Swap]()  | []()  | []()  | []() |  |
+|  [Libft]()  | [Born2BeRoot]()  | [So_Long]()  | [Minishell]()  | []()  | []()  | []()  | |
+| | [Printf]()  | [Push_Swap]()  | [Philosophers]()  | []()  | []() |  |
 | | [Get_Next_Line]()  | [Pipex]() |  | []()  |  |
 
 </td></tr></table>
@@ -163,9 +163,9 @@ class WhoAmI:
 
 |  Circle 0 ✔️  | Circle 1 ✔️ | Circle 2  | Circle 3 | Circle 4 | Circle 5 | Circle 6 | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-|  - | -  | -  | []()  | []()  | |
-| | [Printf](https://github.com/KarmaFaber/ft_printf_test)  | [Push_Swap]() | []()  | []()  | []() |  |
-| | [Get_Next_Line](https://github.com/KarmaFaber/GetNextLine_test)  | [Pipex]()  | - | -  |  |
+|  - | -  | -  | [-]()  | [-]()  | - |
+| | ✔️ [Printf](https://github.com/KarmaFaber/ft_printf_test)  |  [Push_Swap]() | [-]()  | [-]()  | [-]() |  |
+| | ✔️ [Get_Next_Line](https://github.com/KarmaFaber/GetNextLine_test)  |  [Pipex]()  | - | -  |  |
 
 </td></tr></table>
 </div>
