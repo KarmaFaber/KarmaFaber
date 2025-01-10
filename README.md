@@ -140,9 +140,9 @@ class WhoAmI:
 
 | Circle 0 ✔️  | Circle 1 ✔️ | Circle 2 | Circle 3 | Circle 4 | Circle 5 | Circle 6 | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-|  [Libft]()  | [Born2BeRoot]()  | [So_Long]()  | [Minishell]()  | []()  | []()  | []()  | |
-| | [Printf]()  | [Push_Swap]()  | [Philosophers]()  | []()  | []() |  |
-| | [Get_Next_Line]()  | [Pipex]() |  | []()  |  |
+| ✔️ [Libft]()  | ✔️ [Born2BeRoot]()  | ✔️ [So_Long]()  | [Minishell]()  | []()  | []()  | []()  | |
+| | ✔️ [Printf]()  |  [Push_Swap]()  | [Philosophers]()  | []()  | []() |  |
+| | ✔️ [Get_Next_Line]()  | [Pipex]() |  | []()  |  |
 
 </td></tr></table>
 </div>
