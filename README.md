@@ -165,7 +165,7 @@ class WhoAmI:
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 |  - | -  | -  | []()  | []()  | |
 | | [Printf](https://github.com/KarmaFaber/ft_printf_test)  | [Push_Swap]() | []()  | []()  | []() |  |
-| | [Get_Next_Line](https://github.com/KarmaFaber/GetNextLine_test)  | -  | [Pipex]() | -  |  |
+| | [Get_Next_Line](https://github.com/KarmaFaber/GetNextLine_test)  | [Pipex]()  | - | -  |  |
 
 </td></tr></table>
 </div>
