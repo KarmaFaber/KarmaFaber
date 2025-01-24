@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Karma%20Faber%20&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn" alt="header"/>
 </div>
 
-## ▪️ I'm student at [42 Madrid](https://www.42madrid.com/) 👨🏻‍💻📚 
+## ▪️ I'm student at [42 Madrid](https://www.42madrid.com/) 
 
 [![mzolotar's 42 stats](https://badge.mediaplus.ma/binary/mzolotar?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
