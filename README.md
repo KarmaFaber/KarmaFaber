@@ -164,7 +164,7 @@ class WhoAmI:
 |  Circle 0 ✔️  | Circle 1 ✔️ | Circle 2  | Circle 3 | Circle 4 | Circle 5 | Circle 6 | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 |  - | -  | -  | [-]()  | [-]()  | - |
-| | ✔️ [Printf](https://github.com/KarmaFaber/ft_printf_test)  |  [Push_Swap]() | [-]()  | [-]()  | [-]() |  |
+| | ✔️ [Printf](https://github.com/KarmaFaber/ft_printf_test)  |  - | - | -  | - |  |
 | | ✔️ [Get_Next_Line](https://github.com/KarmaFaber/GetNextLine_test)  |  -  | - | -  |  |
 
 </td></tr></table>
