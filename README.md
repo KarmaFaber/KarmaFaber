@@ -3,10 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Karma%20Faber%20&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn" alt="header"/>
 </div>
 
+<!--
 ## ▪️ I'm student at [42 Madrid](https://www.42madrid.com/) 
 
 [![mzolotar's 42 stats](https://badge.mediaplus.ma/binary/mzolotar?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
+-->
 
 <!-- Añadimos espacio para evitar solapamiento -->
 <div style="clear: both; margin-top: 30px;"></div>
@@ -143,11 +144,11 @@ class WhoAmI:
 <tr>
 <td>
 
-| Circle 0 ✔️  | Circle 1 ✔️ | Circle 2 | Circle 3 | Circle 4 | Circle 5 | Circle 6 | 
+| Circle 0 ✔️  | Circle 1 ✔️ | Circle 2 ✔️ | Circle 3 | Circle 4 | Circle 5 | Circle 6 | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| ✔️ [Libft]()  | ✔️ [Born2BeRoot]()  | ✔️ [So_Long]()  | [Minishell]()  | []()  | []()  | []()  | |
-| | ✔️ [Printf]()  |  [Push_Swap]()  | [Philosophers]()  | []()  | []() |  |
-| | ✔️ [Get_Next_Line]()  | [Pipex]() |  | []()  |  |
+| ✔️ [Libft]()  | ✔️ [Born2BeRoot]()  | ✔️ [So_Long]()  | [Minishell]()  | [cub3d]()  | []()  | []()  | |
+| | ✔️ [Printf]()  | ✔️ [Push_Swap]()  | [Philosophers]()  | [NetPractice]()  | []() |  |
+| | ✔️ [Get_Next_Line]()  | ✔️ [Pipex]() |  | [CPP Module's]()  |  |
 
 </td></tr></table>
 </div>
@@ -166,7 +167,7 @@ class WhoAmI:
 
 <td>
 
-|  Circle 0 ✔️  | Circle 1 ✔️ | Circle 2  | Circle 3 | Circle 4 | Circle 5 | Circle 6 | 
+|  Circle 0 | Circle 1 | Circle 2  | Circle 3 | Circle 4 | Circle 5 | Circle 6 | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 |  - | -  | -  | [-]()  | [-]()  | - |
 | | ✔️ [Printf](https://github.com/KarmaFaber/ft_printf_test)  |  - | - | -  | - |  |
@@ -194,9 +195,9 @@ class WhoAmI:
 | ② ✔️ | [Born2BeRoot]() | VirtualBox | 1 Hour | 3 Peers | 3 | No |
 | ③ ✔️ | [Printf]() | C | 15 Mins | Moulinette and 3 Peers | 3 | No |
 | ④ ✔️ | [Get_Next_Line]() | C | 15 Mins | Moulinette and 3 Peers | 3 | No |
-| ⑤ | [Pipex]() | C | 15 Mins | 3 Peers | 3 | No |
+| ⑤ ✔️ | [Pipex]() | C | 15 Mins | 3 Peers | 3 | No |
 | ⑥ ✔️ | [So_Long]() | C | 15 Mins | 3 Peers | 3 | No |
-| ⑦ | [Push_Swap]() | C | 15 Mins | 3 Peers | 3 | No |
+| ⑦ ✔️ | [Push_Swap]() | C | 15 Mins | 3 Peers | 3 | No |
 | ⑧ | [Philosophers]() | C | 15 Mins | 3 Peers | 3 | No |
 | ⑨ | [Minishell]() | C | 15 Mins | 3 Peers | 3 | Yes - 2 People |
 | ⑩ | [NetPractice]() | Networking | 15 Mins | 3 Peers | 3 | No |
