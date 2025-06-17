@@ -147,7 +147,7 @@ class WhoAmI:
 | Circle 0 ✔️  | Circle 1 ✔️ | Circle 2 ✔️ | Circle 3 | Circle 4 | Circle 5 | Circle 6 | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | ✔️ [Libft]()  | ✔️ [Born2BeRoot]()  | ✔️ [So_Long]()  | [Minishell]()  | [cub3d]()  | []()  | []()  | |
-| | ✔️ [Printf]()  | ✔️ [Push_Swap]()  | [Philosophers]()  | [NetPractice]()  | []() |  |
+| | ✔️ [Printf]()  | ✔️ [Push_Swap]()  | ✔️ [Philosophers]()  | [NetPractice]()  | []() |  |
 | | ✔️ [Get_Next_Line]()  | ✔️ [Pipex]() |  | [CPP Module's]()  |  |
 
 </td></tr></table>
@@ -198,7 +198,7 @@ class WhoAmI:
 | ⑤ ✔️ | [Pipex]() | C | 15 Mins | 3 Peers | 3 | No |
 | ⑥ ✔️ | [So_Long]() | C | 15 Mins | 3 Peers | 3 | No |
 | ⑦ ✔️ | [Push_Swap]() | C | 15 Mins | 3 Peers | 3 | No |
-| ⑧ | [Philosophers]() | C | 15 Mins | 3 Peers | 3 | No |
+| ⑧ ✔️ | [Philosophers]() | C | 15 Mins | 3 Peers | 3 | No |
 | ⑨ | [Minishell]() | C | 15 Mins | 3 Peers | 3 | Yes - 2 People |
 | ⑩ | [NetPractice]() | Networking | 15 Mins | 3 Peers | 3 | No |
 | ⑪ | [Cub3D]() | C | 15 Mins | 3 Peers | 3 | Yes - 2 People |
