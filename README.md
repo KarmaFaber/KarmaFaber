@@ -144,11 +144,11 @@ class WhoAmI:
 <tr>
 <td>
 
-| Circle 0 ✔️  | Circle 1 ✔️ | Circle 2 ✔️ | Circle 3 ✔️ | Circle 4 | Circle 5 | Circle 6 | 
+| Circle 0 ✔️  | Circle 1 ✔️ | Circle 2 ✔️ | Circle 3 ✔️ | Circle 4 ✔️ | Circle 5 | Circle 6 | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | ✔️ [Libft]()  | ✔️ [Born2BeRoot]()  | ✔️ [So_Long]()  | ✔️ [Minishell]()  | ✔️ [cub3d]()  | [ft_irc]()  | [Ft_Transcendence]()  | |
 | | ✔️ [Printf]()  | ✔️ [Push_Swap]()  | ✔️ [Philosophers]()  | ✔️ [NetPractice]()  | [Inception]() |  |
-| | ✔️ [Get_Next_Line]()  | ✔️ [Pipex]() |  | [CPP Module's x 5]()  | [CPP Module's x 5]()  |
+| | ✔️ [Get_Next_Line]()  | ✔️ [Pipex]() |  | ✔️ [CPP Module's x 5]()  | [CPP Module's x 5]()  |
 
 </td></tr></table>
 </div>
