@@ -88,7 +88,8 @@ class WhoAmI:
 
 <!-- 42 School - common core projects -->
 <div align="left">
-<h2>42 Madrid. Common Core Student</h2>
+<h1>42 Madrid.</h1>
+<h2>Common Core Student</h2>
 <table>
 <tr>
 <th align="left"> &nbsp;💻 Common Core Projects</th>
@@ -197,7 +198,7 @@ class WhoAmI:
 <div align="left">
 <table>
 <tr>
-<h2>🎓 WEB development course</h2>
+<h1>🎓 WEB development course</h1>
 <th align="left"> &nbsp;Projects</th>
 </tr>
 <tr>
