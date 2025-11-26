@@ -38,13 +38,10 @@ class WhoAmI:
 ```
 
 <!--<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>-->
-
 </div>
-
 
 <!-- Añadimos espacio para evitar solapamiento -->
 <div style="clear: both; margin-top: 30px;"></div>
-
 
 <h2>Connect with me!</h2>
 
@@ -52,9 +49,12 @@ class WhoAmI:
 
 
 <!-- Añadimos espacio para evitar solapamiento -->
+<!--
 <div style="clear: both; margin-top: 30px;"></div>
+-->
 
 <!-- STATS -->
+<!--
 <div align="left">
   <h1>Statistic</h1>
   <table>
@@ -81,14 +81,14 @@ class WhoAmI:
     </tr>
   </table>
 </div>
-
+-->
 
 <!-- Añadimos espacio para evitar solapamiento -->
 <div style="clear: both; margin-top: 30px;"></div>
 
 <!-- 42 School - common core projects -->
 <div align="left">
-<h1>42 Madrid. Common Core Student</h1>
+<h2>42 Madrid. Common Core Student</h2>
 <table>
 <tr>
 <th align="left"> &nbsp;💻 Common Core Projects</th>
@@ -110,7 +110,7 @@ class WhoAmI:
 
 <!-- STACK -->
 <div align="left">
-<h1>42 Tech Stack</h1>
+<h2>42 Tech Stack</h2>
 <table>
   <tr>
     <th>Category</th>
@@ -172,7 +172,7 @@ class WhoAmI:
 
 <!-- 42 School - common core tests -->
 <div align="left">
-<h1>42 Tests</h1>
+<h2>42 Tests</h2>
 <table>
 <tr>
 <th align="left"> &nbsp; 🔍 Common Core Own Tests</th>
@@ -197,7 +197,7 @@ class WhoAmI:
 <div align="left">
 <table>
 <tr>
-<h1>🎓 WEB development course</h1>
+<h2>🎓 WEB development course</h2>
 <th align="left"> &nbsp;Projects</th>
 </tr>
 <tr>
