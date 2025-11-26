@@ -15,7 +15,7 @@
 <div align="left">
 <h1>Who am I?</h1>
 
-```python 
+```python
 class WhoAmI:
    user = 'Mariya'
    current_edu = "42 Madrid"
@@ -32,67 +32,19 @@ class WhoAmI:
    	return Madrid_Spain()
    
    def Ambitions():
-   	BecomeSoftwareEngineer()
-   	FinishMyProjects()
+   	LearnNewSkills()
+   	BuildCoolProjects()
+   	BecomeBetterDeveloperEveryDay()
 ```
 
 <!--<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>-->
 
 </div>
 
-<!-- Añadimos espacio para evitar solapamiento -->
-<div style="clear: both; margin-top: 30px;"></div>
-
-<!-- STACK -->
-<div align="left">
-<h1>Tech Stack</h1>
-<table>
-  <tr>
-    <th>Category</th>
-    <th>Technologies</th>
-  </tr>
-  <tr>
-    <td><strong>Programming Languages</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC">&nbsp;
-      <img src="https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=cplusplus&logoColor=white">&nbsp;
-      <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python">&nbsp;
-      <img src="https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash">&nbsp;
-      <img src="https://img.shields.io/badge/-PHP-000?&logo=PHP">&nbsp;
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Frontend Development</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5">&nbsp;
-      <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6">&nbsp;
-      <a href="https://getbootstrap.com" target="_blank">
-        <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Databases & Cloud Hosting</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/-MySQL-000?&logo=MySQL">&nbsp;
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Software & Tools</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC">&nbsp;
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">&nbsp;
-      <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logoColor=white">&nbsp;
-      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">&nbsp;
-      <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">&nbsp; 
-      <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">&nbsp;
-    </td>
-  </tr>
-</table>
-</div>
 
 <!-- Añadimos espacio para evitar solapamiento -->
 <div style="clear: both; margin-top: 30px;"></div>
+
 
 <h2>Connect with me!</h2>
 
@@ -136,7 +88,7 @@ class WhoAmI:
 
 <!-- 42 School - common core projects -->
 <div align="left">
-<h1>42 Common Core Student</h1>
+<h1>42 Madrid. Common Core Student</h1>
 <table>
 <tr>
 <th align="left"> &nbsp;💻 Common Core Projects</th>
@@ -144,13 +96,74 @@ class WhoAmI:
 <tr>
 <td>
 
-| Circle 0 ✔️  | Circle 1 ✔️ | Circle 2 ✔️ | Circle 3 ✔️ | Circle 4 ✔️ | Circle 5 | Circle 6 | 
+| Milestone 0 ✔️  | Milestone 1 ✔️ | Milestone 2 ✔️ | Milestone 3 ✔️ | Milestone 4 ✔️ | Milestone 5 | Milestone 6 | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| ✔️ [Libft]()  | ✔️ [Born2BeRoot]()  | ✔️ [So_Long]()  | ✔️ [Minishell]()  | ✔️ [cub3d]()  | [webserv]()  | [Ft_Transcendence]()  | |
-| | ✔️ [Printf]()  | ✔️ [Push_Swap]()  | ✔️ [Philosophers]()  | ✔️ [NetPractice]()  | [Inception]() |  |
-| | ✔️ [Get_Next_Line]()  | ✔️ [Pipex]() |  | ✔️ [CPP Module's x 5]()  | [CPP Module's x 5]()  |
+| ✔️ [Libft](https://github.com/KarmaFaber/42_School/tree/main/1_libft)  | ✔️ Born2BeRoot  | ✔️ [So_Long](https://github.com/KarmaFaber/42_School/tree/main/6_so_long)  | ✔️ [Minishell](https://github.com/KarmaFaber/42_School/tree/main/9_minishell)  | ✔️ [cub3d](https://github.com/KarmaFaber/42_School/tree/main/11_cub3D)  | [webserv]()  | [Ft_Transcendence]()  | |
+| | ✔️ [Printf](https://github.com/KarmaFaber/42_School/tree/main/3_printf)  | ✔️ [Push_Swap](https://github.com/KarmaFaber/42_School/tree/main/7_push_swap)  | ✔️ [Philosophers](https://github.com/KarmaFaber/42_School/tree/main/8_philosophers)  | ✔️ NetPractice  | [Inception]() |  |
+| | ✔️ [Get_Next_Line](https://github.com/KarmaFaber/42_School/tree/main/4_GetNextLine)  | ✔️ [Pipex](https://github.com/KarmaFaber/42_School/tree/main/5_pipex) |  | ✔️ [CPP Module's x 5](https://github.com/KarmaFaber/42_School/tree/main/12_CPPs)  | [CPP Module's x 5](https://github.com/KarmaFaber/42_School/tree/main/12_CPPs)  |
 
 </td></tr></table>
+</div>
+
+<!-- Añadimos espacio para evitar solapamiento -->
+<div style="clear: both; margin-top: 30px;"></div>
+
+<!-- STACK -->
+<div align="left">
+<h1>42 Tech Stack</h1>
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td><strong>Programming Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-C-007ACC?style=flat-square&logo=c&logoColor=white">&nbsp;
+      <img src="https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=cplusplus&logoColor=white">&nbsp;
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">&nbsp;
+      <img src="https://img.shields.io/badge/-Bash-000000?style=flat-square&logo=gnu-bash&logoColor=white">&nbsp;
+      <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white">&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frontend Development</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">&nbsp;
+      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">&nbsp;
+      <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">&nbsp;
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Databases & Cloud Hosting</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">&nbsp;
+      <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">&nbsp;
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white">&nbsp;
+      <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white">&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Operating Systems</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black">&nbsp;
+      <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">&nbsp;
+      <img src="https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white">&nbsp;
+      <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white">&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Software & Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">&nbsp;
+      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white">&nbsp;
+      <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">&nbsp;
+      <img src="https://img.shields.io/badge/-WebSockets-333333?style=flat-square&logo=socketdotio&logoColor=white">&nbsp;
+      <img src="https://img.shields.io/badge/-Networking-007ACC?style=flat-square&logo=linux&logoColor=white">&nbsp;
+    </td>
+  </tr>
+</table>
 </div>
 
 
@@ -159,6 +172,7 @@ class WhoAmI:
 
 <!-- 42 School - common core tests -->
 <div align="left">
+<h1>42 Tests</h1>
 <table>
 <tr>
 <th align="left"> &nbsp; 🔍 Common Core Own Tests</th>
@@ -167,48 +181,13 @@ class WhoAmI:
 
 <td>
 
-|  Circle 0 | Circle 1 | Circle 2  | Circle 3 | Circle 4 | Circle 5 | Circle 6 | 
+|  Milestone 0 | Milestone 1 | Milestone 2  | Milestone 3 | Milestone 4 | Milestone 5 | Milestone 6 | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-|  - | -  | -  | [-]()  | [-]()  | - |
-| | ✔️ [Printf](https://github.com/KarmaFaber/ft_printf_test)  |  - | - | -  | - |  |
-| | ✔️ [Get_Next_Line](https://github.com/KarmaFaber/GetNextLine_test)  |  -  | - | -  |  |
+|  - | -  | -  | - | - | - | - |
+| | ✔️ [Printf](https://github.com/KarmaFaber/ft_printf_test)  |  - | - | -  | - |
+| | ✔️ [Get_Next_Line](https://github.com/KarmaFaber/GetNextLine_test)  |  -  | - | -  | - |
 
 </td></tr></table>
-</div>
-
-<!-- Añadimos espacio para evitar solapamiento -->
-<div style="clear: both; margin-top: 30px;"></div>
-
-<!-- 42 School - common core guide table -->
-<div align="left">
-<table>
-<tr>
-<th align="left"> &nbsp; 🎓 Common Core Guide</th>
-</tr>
-<tr>
-
-<td>
-
-|  Order | 👨‍💻  Project | 🎓PL/Program | ⌚ Evaluation Length | 👥 Evaluation | ✔️ Evaluation Points Required | 🧑‍🤝‍🧑 Group Project | 
-|--|--|--|--|--|--|--|
-| ① ✔️ | [Libft]() | C | 15 Mins | Moulinette and 3 Peers | 3 | No |
-| ② ✔️ | [Born2BeRoot]() | VirtualBox | 1 Hour | 3 Peers | 3 | No |
-| ③ ✔️ | [Printf]() | C | 15 Mins | Moulinette and 3 Peers | 3 | No |
-| ④ ✔️ | [Get_Next_Line]() | C | 15 Mins | Moulinette and 3 Peers | 3 | No |
-| ⑤ ✔️ | [Pipex]() | C | 15 Mins | 3 Peers | 3 | No |
-| ⑥ ✔️ | [So_Long]() | C | 15 Mins | 3 Peers | 3 | No |
-| ⑦ ✔️ | [Push_Swap]() | C | 15 Mins | 3 Peers | 3 | No |
-| ⑧ ✔️ | [Philosophers]() | C | 15 Mins | 3 Peers | 3 | No |
-| ⑨ ✔️ | [Minishell]() | C | 1 Hour | 3 Peers | 3 | Yes - 2 People |
-| ⑩ ✔️| [NetPractice]() | Networking | 15 Mins | 3 Peers | 3 | No |
-| ⑪ ✔️| [Cub3D]() | C | 15 Mins | 3 Peers | 3 | Yes - 2 People |
-| ⑫ | [10 C++ Modules]() | C++ | 15 Mins Per Module | 2 Peers Per Module | 2 Per Module - 20 Total | No |
-| ⑬ | [webserv]() | C++ | 1 Hour | 3 Peers | 3 | Yes - 2 People |
-| ⑭ | [Inception]() | Docker | 30 Mins | 3 Peers | 3 | No |
-| ⑮ | [Ft_Transcendence]() | WD | 1 Hour | 3 Peers | 3 | Yes - Between 3-5 People |
-
-</td>
-</tr> </table>
 </div>
 
 <!-- Añadimos espacio para evitar solapamiento -->
