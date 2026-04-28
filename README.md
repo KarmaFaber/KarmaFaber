@@ -99,8 +99,8 @@ class WhoAmI:
 
 | Milestone 0 ✔️  | Milestone 1 ✔️ | Milestone 2 ✔️ | Milestone 3 ✔️ | Milestone 4 ✔️ | Milestone 5 | Milestone 6 | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| ✔️ [Libft](https://github.com/KarmaFaber/42_School/tree/main/1_libft)  | ✔️ Born2BeRoot  | ✔️ [So_Long](https://github.com/KarmaFaber/42_School/tree/main/6_so_long)  | ✔️ [Minishell](https://github.com/KarmaFaber/42_School/tree/main/9_minishell)  | ✔️ [cub3d](https://github.com/KarmaFaber/42_School/tree/main/11_cub3D)  | [webserv]()  | [Ft_Transcendence]()  | |
-| | ✔️ [Printf](https://github.com/KarmaFaber/42_School/tree/main/3_printf)  | ✔️ [Push_Swap](https://github.com/KarmaFaber/42_School/tree/main/7_push_swap)  | ✔️ [Philosophers](https://github.com/KarmaFaber/42_School/tree/main/8_philosophers)  | ✔️ NetPractice  | [Inception]() |  |
+| ✔️ [Libft](https://github.com/KarmaFaber/42_School/tree/main/1_libft)  | ✔️ Born2BeRoot  | ✔️ [So_Long](https://github.com/KarmaFaber/42_School/tree/main/6_so_long)  | ✔️ [Minishell](https://github.com/KarmaFaber/42_School/tree/main/9_minishell)  | ✔️ [cub3d](https://github.com/KarmaFaber/42_School/tree/main/11_cub3D)  | [Webserv]()  | [Ft_Transcendence]()  | |
+| | ✔️ [Printf](https://github.com/KarmaFaber/42_School/tree/main/3_printf)  | ✔️ [Push_Swap](https://github.com/KarmaFaber/42_School/tree/main/7_push_swap)  | ✔️ [Philosophers](https://github.com/KarmaFaber/42_School/tree/main/8_philosophers)  | ✔️ NetPractice  | [Inception]() | 42_Collaborative_resume  |
 | | ✔️ [Get_Next_Line](https://github.com/KarmaFaber/42_School/tree/main/4_GetNextLine)  | ✔️ [Pipex](https://github.com/KarmaFaber/42_School/tree/main/5_pipex) |  | ✔️ [CPP Module's x 5](https://github.com/KarmaFaber/42_School/tree/main/12_CPPs)  | [CPP Module's x 5](https://github.com/KarmaFaber/42_School/tree/main/12_CPPs)  |
 
 </td></tr></table>
@@ -184,9 +184,9 @@ class WhoAmI:
 
 |  Milestone 0 | Milestone 1 | Milestone 2  | Milestone 3 | Milestone 4 | Milestone 5 | Milestone 6 | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-|  - | -  | -  | - | - | - | - |
-| | ✔️ [Printf](https://github.com/KarmaFaber/ft_printf_test)  |  - | - | -  | - |
-| | ✔️ [Get_Next_Line](https://github.com/KarmaFaber/GetNextLine_test)  |  -  | - | -  | - |
+|  - | - | - | - | - | - | - |
+| | ✔️ [Printf](https://github.com/KarmaFaber/ft_printf_test)  | - | - | - | - |
+| | ✔️ [Get_Next_Line](https://github.com/KarmaFaber/GetNextLine_test)  | - | - | - | - |
 
 </td></tr></table>
 </div>
