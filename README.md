@@ -43,25 +43,13 @@ class WhoAmI:
 <!-- Añadimos espacio para evitar solapamiento -->
 <div style="clear: both; margin-top: 30px;"></div>
 
+<!--
 <h2>Connect with me!</h2>
-
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/maria-zolotarova/) 
 
-
-<!-- Añadimos espacio para evitar solapamiento -->
-<!--
+ Añadimos espacio para evitar solapamiento 
 <div style="clear: both; margin-top: 30px;"></div>
 -->
-
-<!-- STATS -->
-
-## GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=KarmaFaber&theme=highcontrast&hide_border=true&border_radius=6&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=530&card_height=205)](https://git.io/streak-stats)
-
-
-<!-- Añadimos espacio para evitar solapamiento -->
-<div style="clear: both; margin-top: 30px;"></div>
 
 <!-- STACK -->
 <div align="left">
