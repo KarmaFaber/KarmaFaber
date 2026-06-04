@@ -54,32 +54,10 @@ class WhoAmI:
 -->
 
 <!-- STATS -->
-<div align="left">
-  <h1>Statistic</h1>
-  <table>
-    <tr>
-      <th colspan="2"><h2>Profile Stats</h2></th>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=KarmaFaber&show_icons=true&theme=cobalt" alt="GitHub stats"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarmaFaber&theme=cobalt&layout=compact" alt="Top languages"/>
-      </td>
-    </tr>
-    <tr>
-      <th colspan="2"><h2>Streak Stats</h2></th>
-    </tr>
-    <tr>
-      <td colspan="2" align="left">
-        <a href="https://git.io/streak-stats">
-          <img src="https://github-readme-streak-stats.herokuapp.com?user=KarmaFaber&theme=cobalt" alt="GitHub Streak"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+
+## GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=KarmaFaber&theme=highcontrast&hide_border=true&border_radius=6&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=530&card_height=205)](https://git.io/streak-stats)
 
 
 <!-- Añadimos espacio para evitar solapamiento -->
