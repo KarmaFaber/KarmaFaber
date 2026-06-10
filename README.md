@@ -162,7 +162,7 @@ class WhoAmI:
 <div align="left">
 <table>
 <tr>
-<h1>🎓 WEB development course</h1>
+<h1>🎓 WEB development course: 2019</h1>
 <th align="left"> &nbsp;Projects</th>
 </tr>
 <tr>
