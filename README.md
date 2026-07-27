@@ -84,7 +84,7 @@ class WhoAmI:
       <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">&nbsp;
       <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">&nbsp;
       <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white">&nbsp;
-      <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white">&nbsp;
+      <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white">&nbsp;
     </td>
   </tr>
   <tr>
@@ -123,9 +123,9 @@ class WhoAmI:
 <tr>
 <td>
 
-| Milestone 0 ✔️  | Milestone 1 ✔️ | Milestone 2 ✔️ | Milestone 3 ✔️ | Milestone 4 ✔️ | Milestone 5 | Milestone 6 | 
+| Milestone 0 ✔️  | Milestone 1 ✔️ | Milestone 2 ✔️ | Milestone 3 ✔️ | Milestone 4 ✔️ | Milestone 5 ✔️ | Milestone 6 | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| ✔️ [Libft](https://github.com/KarmaFaber/42_School/tree/main/1_libft)  | ✔️ Born2BeRoot  | ✔️ [So_Long](https://github.com/KarmaFaber/42_School/tree/main/6_so_long)  | ✔️ [Minishell](https://github.com/KarmaFaber/42_School/tree/main/9_minishell)  | ✔️ [cub3d](https://github.com/KarmaFaber/42_School/tree/main/11_cub3D)  | [Webserv]()  | [Ft_Transcendence]()  | |
+| ✔️ [Libft](https://github.com/KarmaFaber/42_School/tree/main/1_libft)  | ✔️ Born2BeRoot  | ✔️ [So_Long](https://github.com/KarmaFaber/42_School/tree/main/6_so_long)  | ✔️ [Minishell](https://github.com/KarmaFaber/42_School/tree/main/9_minishell)  | ✔️ [cub3d](https://github.com/KarmaFaber/42_School/tree/main/11_cub3D)  | ✔️ [Webserv](https://github.com/KarmaFaber/42_School/tree/main/14_webserv)  | [Ft_Transcendence]()  | |
 | | ✔️ [Printf](https://github.com/KarmaFaber/42_School/tree/main/3_printf)  | ✔️ [Push_Swap](https://github.com/KarmaFaber/42_School/tree/main/7_push_swap)  | ✔️ [Philosophers](https://github.com/KarmaFaber/42_School/tree/main/8_philosophers)  | ✔️ NetPractice  | ✔️ [Inception](https://github.com/KarmaFaber/42_School/tree/main/13_inception) | 42_Collaborative_resume  |
 | | ✔️ [Get_Next_Line](https://github.com/KarmaFaber/42_School/tree/main/4_GetNextLine)  | ✔️ [Pipex](https://github.com/KarmaFaber/42_School/tree/main/5_pipex) |  | ✔️ [CPP Module's x 5](https://github.com/KarmaFaber/42_School/tree/main/12_CPPs)  | ✔️ [CPP Module's x 5](https://github.com/KarmaFaber/42_School/tree/main/12_CPPs)  |
 
