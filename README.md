@@ -1,213 +1,75 @@
 <!-- HEADER -->
-<div align="center" width="100" style="margin-bottom:20px">
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Karma%20Faber%20&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn" alt="header"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=220&section=header&text=Karma%20Faber&fontSize=32&type=waving&fontColor=ffffff&animation=fadeIn" alt="Karma Faber Header" width="100%"/>
+  
+  <h3>Junior Software Developer | 42 Madrid Student | C / C++ Systems & QA Automation</h3>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/mariaz-/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <img src="https://img.shields.io/badge/Status-42%20Madrid%20Student-000000?style=flat-square&logo=42&logoColor=white" alt="42 Madrid Student"/>
+    <img src="https://img.shields.io/badge/Location-Madrid%2C%20Spain-lightgrey?style=flat-square&logo=googlemaps&logoColor=red" alt="Location"/>
+  </p>
 </div>
 
-<!--
-## ▪️ I'm student at [42 Madrid](https://www.42madrid.com/) 
+---
 
-[![mzolotar's 42 stats](https://badge.mediaplus.ma/binary/mzolotar?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
--->
+### 🛠️ Profile & Value Proposition
+Junior Software Developer currently training at **42 Madrid**. Entering the tech sector (0 prior IT experience) with a strong, hands-on foundation in **low-level systems programming (C/C++)**, POSIX environments, and network protocols, backed by a previous professional background in administrative processes, technical auditing, and regulatory compliance.
 
-<!-- Añadimos espacio para evitar solapamiento -->
-<div style="clear: both; margin-top: 30px;"></div>
+- **Systems Foundations:** Low-level memory control (zero-leak tolerance), POSIX system calls, I/O multiplexing, concurrency (pthreads/mutexes), and network sockets.
+- **QA & Testing Mindset:** Writing bespoke test harnesses in Bash to deliberately stress parsers, detect memory corruption, and cover edge cases before peer evaluations.
+- **Monorepo:** All curriculum projects, modules, and exercises are centralized and documented in the [**42_School repository**](https://github.com/KarmaFaber/42_School).
 
-<div align="left">
-<h1>Who am I?</h1>
+---
 
-```python
-class WhoAmI:
-   user = 'Mariya'
-   current_edu = "42 Madrid"
-   fun_fact = "My current fav hobbie is anime"
-   hobbies = [
-    'Music',
-    'Chilling',
-    'Gaming',
-    'Movies',
-    'Anime'
-   		]
-   
-   def getCity():
-   	return Madrid_Spain()
-   
-   def Ambitions():
-   	LearnNewSkills()
-   	BuildCoolProjects()
-   	BecomeBetterDeveloperEveryDay()
-```
+### 💻 Technical Stack
 
-<!--<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>-->
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | `C (C99/POSIX)` `C++ (OOP/STL)` `Bash Scripting` `TypeScript (backend)` `SQL` |
+| **Systems & Networking** | `Linux (Debian/Ubuntu)` `POSIX API` `Sockets TCP/UDP` `Raw Sockets` `epoll / select` `pthreads` |
+| **Testing & Debugging** | `Valgrind (Memcheck, Helgrind)` `GDB` `Custom Test Harnesses` `Postman / curl` `Defensive Coding` |
+| **Tools & Environments** | `Git` `Docker` `Docker Compose` `Nginx` `Makefiles` |
+
+---
+
+### 🔬 Core 42 Madrid Projects
+
+All individual modules and historical progress are cataloged in the [**42_School Monorepo**](https://github.com/KarmaFaber/42_School).
+
+#### 🌐 Systems, Concurrency & Networking
+- **[Webserv (C++)](https://github.com/KarmaFaber/42_School/tree/main/14_webserv)**
+  - Non-blocking HTTP/1.1 server compliant with RFC 7230 using I/O multiplexing (`select`/`poll`/`epoll`).
+  - Custom configuration parser, request routing (GET, POST, DELETE), CGI execution, and chunked transfer decoding.
+- **[Minishell (C)](https://github.com/KarmaFaber/42_School/tree/main/9_minishell)**
+  - POSIX-compliant command-line interpreter. Tokenizer, syntax parser, process lifecycle management (`fork`, `execve`), multi-pipes, redirections, and asynchronous signal handling.
+- **[Philosophers (C)](https://github.com/KarmaFaber/42_School/tree/main/8_philosophers)**
+  - Concurrent multi-threaded simulation solving the Dining Philosophers problem using `pthreads` and mutexes. Deadlock prevention and race condition elimination verified with Helgrind.
+- **[ft_ping & ft_traceroute (C)](https://github.com/KarmaFaber/42_School/tree/main/oc_1_ft_ping)**
+  - Low-level network utilities built with raw sockets (`SOCK_RAW`, `IPPROTO_ICMP`), custom packet construction, and manual RFC 1071 checksum implementation.
+
+#### 🧪 Custom Test Suites & Validation (QA/Testing)
+- **[test_parse_webserv (Bash)](https://github.com/KarmaFaber/test_parse_webserv)**
+  - Automated stress test suite executing malformed configuration files and corrupted payloads against the HTTP server parser.
+- **[ft_printf_test (Bash / C)](https://github.com/KarmaFaber/ft_printf_test)**
+  - Automated differential test harness validating format specifiers, buffer boundaries, and return values against system `libc`.
+- **[GetNextLine_test (Bash / C)](https://github.com/KarmaFaber/GetNextLine_test)**
+  - Test framework testing arbitrary file descriptor reads, binary data, varying buffer sizes (`BUFFER_SIZE=1` to `10M`), and leak-free memory deallocation.
+
+---
+
+### 📊 Engineering Activity
+
+<div align="center">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=KarmaFaber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="KarmaFaber GitHub Stats" width="48%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarmaFaber&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="KarmaFaber Top Languages" width="45%"/>
+  </p>
 </div>
-
-<!-- Añadimos espacio para evitar solapamiento -->
-<div style="clear: both; margin-top: 30px;"></div>
-
-<!--
-<h2>Connect with me!</h2>
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/maria-zolotarova/) 
-
- Añadimos espacio para evitar solapamiento 
-<div style="clear: both; margin-top: 30px;"></div>
--->
-
-<!-- STACK -->
-<div align="left">
-<h2>42 Tech Stack</h2>
-<table>
-  <tr>
-    <th>Category</th>
-    <th>Technologies</th>
-  </tr>
-  <tr>
-    <td><strong>Programming Languages</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/-C-007ACC?style=flat-square&logo=c&logoColor=white">&nbsp;
-      <img src="https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=cplusplus&logoColor=white">&nbsp;
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">&nbsp;
-      <img src="https://img.shields.io/badge/-Bash-000000?style=flat-square&logo=gnu-bash&logoColor=white">&nbsp;
-      <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white">&nbsp;
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Frontend Development</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">&nbsp;
-      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">&nbsp;
-      <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">&nbsp;
-      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">&nbsp;
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Databases & Cloud Hosting</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">&nbsp;
-      <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">&nbsp;
-      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white">&nbsp;
-      <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white">&nbsp;
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Operating Systems</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black">&nbsp;
-      <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">&nbsp;
-      <img src="https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white">&nbsp;
-      <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white">&nbsp;
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Software & Tools</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">&nbsp;
-      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white">&nbsp;
-      <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">&nbsp;
-      <img src="https://img.shields.io/badge/-WebSockets-333333?style=flat-square&logo=socketdotio&logoColor=white">&nbsp;
-      <img src="https://img.shields.io/badge/-Networking-007ACC?style=flat-square&logo=linux&logoColor=white">&nbsp;
-    </td>
-  </tr>
-</table>
-</div>
-
-<!-- Añadimos espacio para evitar solapamiento -->
-<div style="clear: both; margin-top: 30px;"></div>
-
-<!-- 42 School - common core projects -->
-<div align="left">
-<h1>42 Madrid.</h1>
-<h2>Common Core Student</h2>
-<table>
-<tr>
-<th align="left"> &nbsp;💻 Common Core Projects</th>
-</tr>
-<tr>
-<td>
-
-| Milestone 0 ✔️  | Milestone 1 ✔️ | Milestone 2 ✔️ | Milestone 3 ✔️ | Milestone 4 ✔️ | Milestone 5 ✔️ | Milestone 6 | 
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| ✔️ [Libft](https://github.com/KarmaFaber/42_School/tree/main/1_libft)  | ✔️ Born2BeRoot  | ✔️ [So_Long](https://github.com/KarmaFaber/42_School/tree/main/6_so_long)  | ✔️ [Minishell](https://github.com/KarmaFaber/42_School/tree/main/9_minishell)  | ✔️ [cub3d](https://github.com/KarmaFaber/42_School/tree/main/11_cub3D)  | ✔️ [Webserv](https://github.com/KarmaFaber/42_School/tree/main/14_webserv)  | [Ft_Transcendence]()  | |
-| | ✔️ [Printf](https://github.com/KarmaFaber/42_School/tree/main/3_printf)  | ✔️ [Push_Swap](https://github.com/KarmaFaber/42_School/tree/main/7_push_swap)  | ✔️ [Philosophers](https://github.com/KarmaFaber/42_School/tree/main/8_philosophers)  | ✔️ NetPractice  | ✔️ [Inception](https://github.com/KarmaFaber/42_School/tree/main/13_inception) | 42_Collaborative_resume  |
-| | ✔️ [Get_Next_Line](https://github.com/KarmaFaber/42_School/tree/main/4_GetNextLine)  | ✔️ [Pipex](https://github.com/KarmaFaber/42_School/tree/main/5_pipex) |  | ✔️ [CPP Module's x 5](https://github.com/KarmaFaber/42_School/tree/main/12_CPPs)  | ✔️ [CPP Module's x 5](https://github.com/KarmaFaber/42_School/tree/main/12_CPPs)  |
-
-</td></tr></table>
-</div>
-
-<!-- Añadimos espacio para evitar solapamiento -->
-<div style="clear: both; margin-top: 30px;"></div>
-
-<!-- 42 School - common core tests -->
-<div align="left">
-<h2>42 Tests</h2>
-<table>
-<tr>
-<th align="left"> &nbsp; 🔍 Common Core Own Tests</th>
-</tr>
-<tr>
-
-<td>
-
-|  Milestone 0 | Milestone 1 | Milestone 2  | Milestone 3 | Milestone 4 | Milestone 5 | Milestone 6 | 
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-|  - | - | - | - | - | - | - |
-| - | ✔️ [Printf](https://github.com/KarmaFaber/ft_printf_test)  | - | - | - | ✔️ [Webserver - test config file parser](https://github.com/KarmaFaber/test_parse_webserv)| - |
-| - | ✔️ [Get_Next_Line](https://github.com/KarmaFaber/GetNextLine_test)  | - | - | - | - | - |
-
-</td></tr></table>
-</div>
-
-<!-- Añadimos espacio para evitar solapamiento -->
-<div style="clear: both; margin-top: 30px;"></div>
-
-<!-- WEB development course -->
-<div align="left">
-<table>
-<tr>
-<h1>🎓 WEB development course: 2019</h1>
-<th align="left"> &nbsp;Projects</th>
-</tr>
-<tr>
-
-<td>
-
-[Academy](https://github.com/KarmaFaber/Academy)  
-[AMP4Email](https://github.com/KarmaFaber/AMP4Email)  
-[MyPyModule](https://github.com/KarmaFaber/MyPyModule)  
-[SignUpProject](https://github.com/KarmaFaber/SignUpProject) 
-[LogInProject](https://github.com/KarmaFaber/LogInProject)  
-[clinica-web-crud](https://github.com/KarmaFaber/clinica-web-crud)  
-[Formulario](https://github.com/KarmaFaber/Formulario) 
-[CRUD_Spring_Java](https://github.com/KarmaFaber/CRUD_Spring_Java) 
-
-</td>
-</tr> </table>
-</div>
-
-<!-- Añadimos espacio para evitar solapamiento -->
-<div style="clear: both; margin-top: 30px;"></div>
-
-<!-- SNAKE GAME -->
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
-
 
 <!-- FOOTER -->
-<hr>
-<div align="center" width="100" style="margin-bottom:20px">
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
-  alt="footer" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=80&section=footer&type=waving" alt="Footer" width="100%"/>
 </div>
-
-
-<!--
-USED:
-1. Markdown:  https://github.github.com/gfm/
-2. Icons: https://coolsymbol.com/
-3. Header/Footer: https://github.com/kyechan99/capsule-render
-4. GitHub streak: https://github-readme-streak-stats.herokuapp.com/demo/
-5. Templates: https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/Dum6o.md
-6. Badges: https://shields.io
-7. Stats: https://github.com/anuraghazra/github-readme-stats
-9.Snake game: https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg
-10. 42 badge:  https://github.com/oakoudad/badge42
--->
