@@ -58,17 +58,6 @@ All individual modules and historical progress are cataloged in the [**42_School
 - **[GetNextLine_test (Bash / C)](https://github.com/KarmaFaber/GetNextLine_test)**
   - Test framework testing arbitrary file descriptor reads, binary data, varying buffer sizes (`BUFFER_SIZE=1` to `10M`), and leak-free memory deallocation.
 
----
-
-### 📊 Engineering Activity
-
-<div align="center">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=KarmaFaber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="KarmaFaber GitHub Stats" width="48%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarmaFaber&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="KarmaFaber Top Languages" width="45%"/>
-  </p>
-</div>
-
 <!-- FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=80&section=footer&type=waving" alt="Footer" width="100%"/>
